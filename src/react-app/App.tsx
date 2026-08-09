@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Satwik Enterprises</h1>
+      <h1>Satwik Enterprise</h1>
       <p>Welcome to Satwik Enterprise</p>
     </div>
   )
